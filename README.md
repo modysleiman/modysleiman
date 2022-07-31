@@ -1,6 +1,6 @@
 ### Hi there I'm Mohammad Sleiman👋
 ## It seems like you've followed a link to my old github account. Check out my most recent work here:
-- [**Github.com/MohammadSleiman**](https://www.github.com/mohammadsleiman),
+# [**Github.com/MohammadSleiman**](https://www.github.com/mohammadsleiman)
 
 <!--
 **modysleiman/modysleiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
